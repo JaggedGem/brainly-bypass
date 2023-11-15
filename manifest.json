@@ -5,9 +5,9 @@
   "manifest_version": 3,
   "content_scripts": [
     {
-      "matches": ["https://brainly.com.br/*"],
+      "matches": ["https://brainly.ro/*"],
       "js": ["/script.js"]
     }
   ],
-  "host_permissions": ["https://brainly.com.br/*"]
+  "host_permissions": ["https://brainly.ro/*"]
 }
